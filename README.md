@@ -233,7 +233,7 @@ Suite completa de testes com pytest e fixtures.
 - [ ] Código de barras para ISBN
 
 ## Autor
- Thiago Rocha
+ Thiago Rocha<br>
 Desenvolvido como projeto de portfólio demonstrando conhecimentos em desenvolvimento full stack com Python/JS.
 
 
